@@ -1,0 +1,77 @@
+20240525	13:29:44	d7e3f60f-f01b-48f5-8dc4-4004f678ce2f	/new-page	GET
+20240525	13:29:44	79221b23-3fea-43af-8027-240c9da26f27	/css/style.css	GET
+20240525	13:29:44	590b7ea8-6410-49b8-bcce-d41ffd3a96e9	/img/img1.jpg	GET
+20240525	13:30:33	10b18006-da07-4c2b-8f63-6988519d7226	/new-page	GET
+20240525	13:30:38	d5b4732d-abe6-4ec1-b10f-23b3a2283ee9	/new-page	GET
+20240525	13:30:38	d30b8e38-5d78-4c6f-9316-11d2eec367b8	/css/style.css	GET
+20240525	13:30:38	5b7e850e-3e33-4120-8d15-91d317be6553	/img/img1.jpg	GET
+20240525	14:11:41	553f52cb-5ceb-44f2-96fc-5ce0db9def19	/index	GET
+20240525	14:11:41	bff6051b-2f1a-467c-8542-7a7cc9d110ed	/css/style.css	GET
+20240525	14:11:53	d446b321-e708-44ee-93d6-e924a261ef01	/index	GET
+20240525	14:11:53	8700a0a9-9885-475c-b0ab-6152edeee81e	/css/style.css	GET
+    20240527	13:16:04	9712f33e-fde3-419d-bb0d-e8796ba5c580	OPTIONS	https://www.google.fr	/
+20240527	13:16:04	0a0a15b3-1575-4c22-9479-6ca4dea6196f	GET	https://www.google.fr	/
+20240529	11:40:13	510a3ffc-8073-4ed5-a848-53c86216a9d4	OPTIONS	https://www.google.fr	/
+20240529	11:40:13	be656d1d-b5e5-44b2-8eea-738fe5e3226b	GET	https://www.google.fr	/
+20240529	11:40:21	01e6d552-db0d-4f1b-92d5-de5ccdd9ae4d	OPTIONS	https://www.google.fr	/
+20240529	11:40:21	31395cb2-995f-47b0-aec9-a12bea3ec016	GET	https://www.google.fr	/
+20240529	11:49:25	ca718bc4-2834-4cb1-a37f-8e9d3ae0f905	OPTIONS	https://www.google.fr	/
+20240529	11:49:25	ee71ac3c-70f3-42f8-a780-732d72f2a862	GET	https://www.google.fr	/
+20240529	11:50:05	d6f5030c-294b-4fbc-b2ec-8a65e13bcb31	OPTIONS	https://www.google.fr	/
+20240529	11:50:05	eccc3276-46aa-4366-b1b2-e6cb16909aa0	GET	https://www.google.fr	/
+20240529	11:51:54	c685641e-a9a0-40cf-922b-ceaf9f75bf8a	OPTIONS	https://www.google.fr	/
+20240529	11:51:54	0575c1bb-19fe-4ccc-97b8-47d832cf22b3	GET	https://www.google.fr	/
+20240529	11:51:57	f6059018-857a-4fd0-949a-2dad7fcb640c	OPTIONS	https://www.google.fr	/
+20240529	11:51:57	f221d6b6-26f2-4750-b417-aa1a6f495731	GET	https://www.google.fr	/
+20240529	12:10:54	e8f21716-4a46-4828-afbe-d271a12fd2a8	OPTIONS	https://www.google.fr	/
+20240529	12:10:54	612ec238-39b0-4ca6-8c91-fc2f3ab064a5	GET	https://www.google.fr	/
+20240529	12:11:37	cf103c49-0c64-45b0-ba8b-d1e528944656	OPTIONS	https://www.google.fr	/
+20240529	12:11:37	c248aef6-bf16-4b72-87c4-6ca75f94cb31	GET	https://www.google.fr	/
+20240529	12:17:36	90ec5131-e129-428f-ac22-c907746208c6	OPTIONS	https://www.google.fr	/
+20240529	12:17:36	514ad92d-a7e9-4a15-8730-8f9fd5053697	GET	https://www.google.fr	/
+20240529	12:17:56	1da734d7-be60-42ed-a71f-68a80b3a8ba2	OPTIONS	https://www.google.fr	/
+20240529	12:17:56	1b2a4276-dd90-4904-9044-05dd0492f7ef	GET	https://www.google.fr	/
+20240529	12:18:50	cd9b74c4-57bf-4dba-b98a-6682a558856a	OPTIONS	https://www.google.fr	/
+20240529	12:18:50	dbe11787-2a22-470e-9fad-cfe22fce3f38	GET	https://www.google.fr	/
+20240529	12:35:55	67dc3616-5d00-406f-8e3c-3ff8ad58e670	OPTIONS	https://www.google.fr	/404.html
+20240529	12:35:55	d6c77edf-54e2-4055-98d4-af9f0c0ecabd	GET	https://www.google.fr	/404.html
+20240529	12:36:29	745c122c-585f-4443-b900-7948a4cf2d78	OPTIONS	https://www.google.fr	/hello.html
+20240529	12:36:29	4e974c5f-af35-4569-93c9-6074603f8fab	GET	https://www.google.fr	/hello.html
+20240529	12:44:00	d27879b2-cc65-4cd6-ab29-f3344d96cda6	GET	undefined	/index
+20240529	12:44:00	592169fd-2af1-4e7f-a226-d4f2e52132f8	GET	undefined	/css/style.css
+20240529	12:44:00	bf1bb01d-7fa3-4626-9618-3d4d50a791a4	GET	undefined	/favicon.ico
+20240529	12:44:02	4b4c4868-f331-4d3d-828a-d5a4610e07da	GET	undefined	/
+20240529	12:44:02	bf98b520-027d-4119-8b52-83d09af6b384	GET	undefined	/css/style.css
+20240529	12:50:32	1a3df8f5-ddca-4824-8220-21e454ba363b	GET	undefined	/
+20240529	12:50:32	8a5e1fc0-d664-485c-b006-4e877951a882	GET	undefined	/css/style.css
+20240529	12:50:50	efb34acc-7b11-4468-8d29-01644ccc5f90	GET	undefined	/
+20240529	12:53:25	21410da1-4fee-46b2-89df-6c429afbf011	GET	undefined	/
+20240529	12:53:25	494834f7-edb4-4cc1-90d7-057b192431e3	GET	undefined	/css/style.css
+20240529	12:54:19	56b5f473-f5ad-4873-a66d-176547f037fb	GET	undefined	/
+20240529	12:54:19	a7f9b8c5-3b4e-4d5f-84a3-ecaf58717958	GET	undefined	/css/style.css
+20240529	12:56:45	ffb3677d-b290-4ddc-81df-d1f8c7efcb54	GET	undefined	/chadi
+20240529	12:56:46	f78fabfd-d6c6-44d1-a1ee-2352cf565907	GET	undefined	/css/style.css
+20240529	14:09:18	69c9bc59-f88e-44d3-933f-a8b2d79639c9	GET	undefined	/subdir/index
+20240529	14:14:37	a3bccf35-8ecf-40a4-a4b8-e1b017d6cefb	GET	undefined	/subdir/index
+20240529	14:14:42	15a805d1-e6ef-42b8-a596-2fea17de6ac3	GET	undefined	/subdir/index
+20240529	14:14:46	02b97079-e1dc-43f6-a84a-200529001afd	GET	undefined	/subdir
+20240529	14:14:46	66f263fe-8fd1-4a6d-926e-c82856fa721d	GET	undefined	/subdir/
+20240529	14:14:55	2d5124f5-9460-45c5-ba38-e68247e1e2ea	GET	undefined	/subdir/chadi
+20240529	14:14:55	c63941f3-fef9-4051-bb2d-39adcc19460a	GET	undefined	/subdir/css/style.css
+20240529	14:22:36	fdc0e1c2-8166-4f02-ae0a-3d4d66644856	GET	undefined	/
+20240529	14:22:36	35a2a44a-931b-4ba8-8ee5-9cef6f096e2a	GET	undefined	/css/style.css
+20240529	14:22:41	96f1b3f6-3130-4366-b11a-d692b41eae01	GET	undefined	/new-page
+20240529	14:22:41	9a025311-513c-4d4c-9e91-e8390eb86751	GET	undefined	/css/style.css
+20240529	14:22:41	66c5ec43-da26-40c7-a122-d216f039ba15	GET	undefined	/img/img1.jpg
+20240529	14:58:09	934d2dc6-97a5-419f-a712-98a39186ffde	GET	undefined	/employees
+20240529	15:07:47	deac511e-28a7-42af-8d5b-c9630080f02c	POST	undefined	/employees
+20240529	15:08:41	2daaa311-2846-4c26-810c-69f67af75367	POST	undefined	/employees
+20240529	15:09:40	8f2f6190-7798-4e39-bba1-26d9bd9a111f	POST	undefined	/employees
+20240529	15:10:07	8691bc2e-eabf-4118-a2ea-ecff79320dd2	POST	undefined	/employees
+20240529	15:10:08	c4a03610-ebc3-4bed-81f3-18166087df2c	POST	undefined	/employees
+20240529	15:10:31	746b6692-5662-41e3-bf59-dcadd821080d	POST	undefined	/employees
+20240529	15:13:37	24b1ae0c-db29-421b-8344-3eadea43944b	PUT	undefined	/employees
+20240529	15:13:42	fd97a1c6-a2fe-430b-bde1-9259ac12d69e	PUT	undefined	/employees
+20240529	15:14:31	01a0d89f-471f-4997-9a3b-7c609ad0da48	DELETE	undefined	/employees
+20240529	15:14:31	f170ceb4-2ce6-4d2b-b3f8-aa2de3d7dbf7	DELETE	undefined	/employees
+20240529	15:15:02	589099dd-521f-4628-896a-bf4777af2b69	GET	undefined	/employees/1
